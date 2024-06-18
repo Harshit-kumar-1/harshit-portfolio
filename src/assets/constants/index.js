@@ -75,5 +75,5 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "Mandsaur, Madhya Pradesh, India 458880",
   phoneNo: "+919405599743",
-  email: "me@example.com",
+  email: "Harshitkumar1026@gmail.com",
 };
